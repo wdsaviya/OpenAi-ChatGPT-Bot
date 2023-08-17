@@ -28,7 +28,7 @@ global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = 'king-nima-gpt-bot'
-global.SESSION_ID = 'elisa_md@;;;dMUFkJoC#rS4uqcXDhPPF3K2wNKxKrSkEiBMxUjto-5AP26T6Dds'
+global.SESSION_ID = 'elisa_md@;;;0YcQVRxb#sVc5TAXYjZtZmon6Zy07KH1Issa_1z7vHsttqhosFGg'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
